@@ -1,6 +1,6 @@
 # License
 
-**Secreto de medianoche**
+**Secreto de medianoche, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 
